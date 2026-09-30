@@ -1,0 +1,9 @@
+= Getting Started
+
+Welcome to the Getting Started documentation.
+
+This is a sample documentation component built with Antora.
+
+== About this documentation
+
+Use this documentation to learn the basics of our sample product.
