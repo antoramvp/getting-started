@@ -1,0 +1,17 @@
+= Installation
+
+Follow these steps to install the sample product.
+
+== Requirements
+
+Before you begin, make sure you have:
+
+* An active account
+* Internet access
+* A supported web browser
+
+== Install the product
+
+. Sign in to your account.
+. Open the installation page.
+. Follow the instructions displayed on the screen.
