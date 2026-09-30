@@ -1,0 +1,5 @@
+name: getting-started
+title: Getting Started
+version: ~
+nav:
+  - modules/ROOT/nav.adoc
