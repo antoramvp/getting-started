@@ -2,6 +2,13 @@
 
 NOTE: This section comes from repository No. 1: `getting-started`.
 
+[NOTE]
+====
+This proof of concept demonstrates how Antora can combine documentation from multiple repositories into a single documentation site and support versioned content.
+
+For simplicity, the repositories used in this POC are hosted under the same GitHub account. In a production setup, Antora can also pull documentation from repositories hosted in GitLab, including repositories belonging to different groups or accounts, as long as the build process has access to them.
+====
+
 Welcome to the Getting Started documentation.
 
 This is a sample documentation component built with Antora.
