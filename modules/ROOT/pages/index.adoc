@@ -1,6 +1,6 @@
-NOTE: This page comes from repository No. 1: `getting-started`.
-
 = Getting Started
+
+NOTE: This section comes from repository No. 1: `getting-started`.
 
 Welcome to the Getting Started documentation.
 
